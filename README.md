@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/pavithram14](https://linktr.ee/pavithram14)
 
-- 💬 Ask me about **SQL, Power BI**
+- 💬 Ask me about **SQL, Power BI, Excel**
 
 - 📫 How to reach me **pavithrait1415@gmail.com**
 
